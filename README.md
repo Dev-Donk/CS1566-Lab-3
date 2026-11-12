@@ -1,5 +1,4 @@
 # CS1566 - Lab 3
----
 ### Author: Dante Samarco
 ### University of Pittsburgh
 ### Fall Semester 2025
