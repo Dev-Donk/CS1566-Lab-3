@@ -16,4 +16,4 @@ Lab 3 for CS1566 was to generate various triangles and draw them to the screen.
 Nothing to really say on this one other than it was fun to chart out all of the vertices.
 ---
 ## Result
-![Lab 3 Screenshot](https://imgur.com/0a8VOiY)
+[Lab 3 Screenshot](https://imgur.com/0a8VOiY)
